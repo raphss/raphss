@@ -1,6 +1,6 @@
 ## 💻 Raphael Vilete
 
-**`Desenvolver de Software (Back-end/Front-end/Análise de Dados)`**
+**`Desenvolvedor de Software (Back-end/Front-end/Análise de Dados)`**
 
 Sou Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações Web, Desktop e APIs. Em todos os meus projetos, cuido de cada etapa do processo, desde o planejamento e design até a implementação de soluções para problemas reais por meio de código eficiente e bem-estruturado.
 
